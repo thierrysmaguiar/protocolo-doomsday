@@ -73,3 +73,4 @@ const ref = hero
 ref.power = 1
 
 console.log(hero.power);
+.
